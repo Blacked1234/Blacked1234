@@ -4,7 +4,7 @@
 
 :iphone: **But also learning Mobile Development with Kotlin in Android Studio**
 
-:man_student: **I'm studying Computer Science and Inteligent Systems on AGH**
+:man_student: **I'm studying Computer Science and Intelligent Systems on AGH**
 
 :musical_note: **And I'm in love with all kind of music** 💙
 
