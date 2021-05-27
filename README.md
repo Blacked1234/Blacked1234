@@ -1,4 +1,12 @@
-### Hi there 👋
+## Welcome :exclamation:
+
+:desktop_computer:  **I'm currently working with Data Science, Machine Learning and Deep Learning** 
+
+:iphone: **But also learning Mobile Development with Kotlin in Android Studio**
+
+:man_student: **I'm studying Computer Science and Inteligent Systems on AGH**
+
+:musical_note: **And I'm in love with all kind of music** 💙
 
 <!--
 **Blacked1234/Blacked1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
