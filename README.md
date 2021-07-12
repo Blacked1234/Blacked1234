@@ -2,6 +2,8 @@
 
 :desktop_computer:  **I'm currently working with Data Science, Machine Learning and Deep Learning** 
 
+:cloud: **Getting started with Google Cloud and AWS**
+
 :iphone: **But also learning Mobile Development with Kotlin in Android Studio**
 
 :man_student: **I'm studying Computer Science and Intelligent Systems on AGH**
