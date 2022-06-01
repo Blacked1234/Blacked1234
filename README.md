@@ -1,10 +1,10 @@
 ## Welcome :exclamation:
 
-:desktop_computer:  **I'm currently working with Data Science, Machine Learning and Deep Learning** 
+:desktop_computer: :iphone:  **I'm currently working Android Studio and Kotlin, creating mobile apps (like LookingFor or Medica)** 
 
 :cloud: **Getting started with Google Cloud and AWS**
 
-:iphone: **But also learning Mobile Development with Kotlin in Android Studio**
+:rocket: **But also learning Data Science, ML and DL**
 
 :man_student: **I'm studying Computer Science and Intelligent Systems on AGH**
 
